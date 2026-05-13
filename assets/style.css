@@ -68,7 +68,7 @@ a:hover{text-decoration:underline}
   padding:18px 18px;
   margin-bottom: 25px;
 }
-.card h2{margin:0 0 10px 0; font-size:18px}
+.card h2{margin:0 0 10px 0; font-size:21px}
 .card h3{margin:16px 0 8px; font-size:16px}
 .pills{display:flex; gap:8px; flex-wrap:wrap; margin-top:10px}
 .pill{
